@@ -1,3 +1,5 @@
+Bank Application Project ✨
+
 Adedokun Divine - Designed the GUI and completed rest of the code
 
 Ebe Nissi - created code for deposit method for the savings account
